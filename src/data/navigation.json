@@ -1,0 +1,19 @@
+{
+    "menuItems": [
+        {
+            "text": "Home",
+            "url": "/",
+            "id": "nav1"
+        },
+        {
+            "text": "Favorites",
+            "url": "/favorites",
+            "id": "nav2"
+        },
+        {
+            "text": "New Meetup",
+            "url": "/new-meetup",
+            "id": "nav3"
+        }
+    ]
+}
